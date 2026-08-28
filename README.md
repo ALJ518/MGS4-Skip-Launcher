@@ -15,3 +15,5 @@ A simple tool to completely bypass the official Metal Gear Solid 4 (Master Colle
    `C:\Program Files (x86)\Steam\steamapps\common\METAL GEAR SOLID 4`
 3. Replace any existing files when prompted.
 4. Launch the game normally from Steam.
+
+<img width="625" height="177" alt="image" src="https://github.com/user-attachments/assets/88e3a57e-a703-480e-b4c9-4486ca932179" />
